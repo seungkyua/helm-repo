@@ -1,0 +1,13 @@
+apiVersion: v1
+entries:
+  lma-addons:
+  - apiVersion: v1
+    appVersion: "1.0"
+    created: "2021-04-08T06:07:10.193352603Z"
+    description: Kubernetes Resources for TACO Project
+    digest: c91e5fa6528ff40dd879851dac9a69ef81227c7b797cad56773b9e24b7ec5b08
+    name: lma-addons
+    urls:
+    - https://seungkyua.github.io/helm-repo/lma-addons-1.2.0.tgz
+    version: 1.2.0
+generated: "2021-04-08T06:07:10.177779785Z"
